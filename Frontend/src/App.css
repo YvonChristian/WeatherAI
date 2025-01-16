@@ -1,0 +1,33 @@
+.card {
+  padding: none;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Custom styles for LayersControl */
+.leaflet-control-layers {
+  background-color: black !important;
+  font-family: Arial, sans-serif;
+  padding: 1px !important;
+}
+
+.leaflet-control-layers-expanded {
+  display: block !important;
+  /* Always expanded */
+}
+
+/* Style for labels inside LayersControl */
+.leaflet-control-layers label {
+  padding: 5px;
+  font-size: 14px;
+  color: #999 !important;
+  /* Dark text */
+}
+
+.typed-cursor {
+  background-color: white;
+  color: white;
+  position: relative;
+}
